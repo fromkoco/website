@@ -3,7 +3,7 @@
 <!-- <Logo> -->
 
 <div class="h-14 px-4 text-center">
-    &lt; <span>Koco</span> /&gt;
+    &lt; <span>koco</span> /&gt;
 </div>
 
 <!-- </Logo> -->
